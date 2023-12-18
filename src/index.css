@@ -1,0 +1,21 @@
+
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.Pool{
+  border: 1px solid;
+  width: 500px;
+  height: 600px;
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.Water{
+  height: 50px;
+  background-color: blue;
+}
